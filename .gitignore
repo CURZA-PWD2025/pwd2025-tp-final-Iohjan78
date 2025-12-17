@@ -1,0 +1,8 @@
+.env
+pgdata/
+__pycache__/
+*.pyc
+instance/
+venv/
+.envrc  
+/node_modules
